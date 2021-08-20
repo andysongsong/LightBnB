@@ -1,6 +1,4 @@
 
-
-
 INSERT INTO users ( name, email, password)
 VALUES 
 ( 'sad sds', 'sdasd@sdf.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzQgFId2u.'),

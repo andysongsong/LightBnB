@@ -48,3 +48,6 @@ CREATE TABLE property_reviews (
   rating SMALLINT NOT NULL DEFAULT 0,
   message TEXT
 );
+
+-- \i migrations/01_schema.sql
+-- \i seeds/01_seeds.sql
